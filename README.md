@@ -4,8 +4,7 @@ A passionate software developer from Egypt I Graduated from Faculty of Computers
 
 📫 How to reach me mustafamekawyy@gmail.com
 
-Connect with me:
-abdulrahmanashraf98
+
 <!--
 **MustafaMekawy/MustafaMekawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
