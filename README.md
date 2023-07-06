@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Orange Digital Center Student Management System**
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently **improving my skills in Backend development**
 
 - 📫 How to reach me **mustafamekawyy@gmail.com**
 
