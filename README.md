@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Mustafa Mekawy</h1>
-<h3 align="center">A passionate software developer from Egypt I Graduated from Faculty of Computers And Artificial Intelligence— BSc. Information technology, Cairo university (2018- 2022) with Good grade.Seeking a job in the field of “technology” in a reputable organization where gain experience. Eager to learn every day and gain more experience in different fields related to technology</h3>
+<h3 align="center">A passionate software developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Orange Digital Center Student Management System**
+- 🔭 I’m currently working as **backend developer at Orange Digital Center**
 
 - 🌱 I’m currently **improving my skills in Backend development**
 
