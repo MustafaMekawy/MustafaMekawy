@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **backend developer at Orange Digital Center**
 
-- 🌱 I’m currently learning **improving my skills in Backend development**
+- 🌱 I’m currently **improving my skills in Backend development**
 
 - 📫 How to reach me **mustafamekawyy@gmail.com**
 
