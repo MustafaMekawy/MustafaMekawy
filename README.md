@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mustafamekawyy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bARHNtBEIVzPUSK-6dQaDGbR7V7RyUuH/view?usp=sharing](https://drive.google.com/file/d/1bARHNtBEIVzPUSK-6dQaDGbR7V7RyUuH/view?usp=sharing)
+- 📄 Know about my experiences https://docs.google.com/document/d/1PrGAudovBZl_9i1lqA1a7A-bPB4JKe9abRc1QSv-qmw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
